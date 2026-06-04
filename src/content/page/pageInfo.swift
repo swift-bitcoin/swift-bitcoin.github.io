@@ -19,4 +19,8 @@ While still under development, the goal is to provide an as complete as possible
 - DM the developers on X:
   - [@notcraigwright](https://x.com/notcraigwright)
 
+# Other Socials
+
+- Nostr: `npub12je32d0zqj2v0qqawja986qn4pj80md9k4unr8w8hhv2p94kdk7sw6jumw` / `satoshi [at] swiftbitcoin.org` (NIP-05)
+- Pubky: https://pubky.app/profile/g8hmr7teopf51kdzbf4ztpezpssdmpbbgw4f5owrfqqm6oxpx71y
 """# }
